@@ -1,0 +1,20 @@
+{
+	"songs": [
+		["rotten-smoothie", "scaryorange", [146, 113, 253]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "stage",
+
+	"storyName": "Aethos but good",
+	"weekBefore": "",
+	"weekName": "Week 1",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}
